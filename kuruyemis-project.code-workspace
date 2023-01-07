@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../WEB-PROJELERİ/kuruyemis-project"
+		},
+		{
+			"path": "../../WEB-PROJELERİ/kuruyemis-project/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kuruyemis-project"
+	}
+}
