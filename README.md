@@ -6,13 +6,13 @@
 
 <p> He there Im coding my second fully website project 
 based organic agricultural company 
-just using HTML and CSS  </p>
+just using HTML and CSS!  </p>
 
 
 
 
 ![](full.gif)
 # organik-homepage
-# organik-homepage
-# organik-homepage
-# organik-homepage
+
+
+
